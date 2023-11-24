@@ -1,2 +1,3 @@
 pull_request
 github_flow
+master2
